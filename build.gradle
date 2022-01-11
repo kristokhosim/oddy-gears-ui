@@ -26,7 +26,6 @@ allprojects {
         google()
         maven {
             url 'https://jitpack.io'
-            credentials { username "jp_77lshul7rb3ncigql1sbqkojcs" }
         }
     }
 }
